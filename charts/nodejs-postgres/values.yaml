@@ -1,0 +1,13 @@
+image:
+  repository: suleyman888/nodejs-postgres-demo
+  tag: latest
+
+postgres:
+  host: "postgres-service"
+  user: "myuser"
+  password: "mypassword"
+  database: "mydb"
+
+service:
+  port: 3000
+

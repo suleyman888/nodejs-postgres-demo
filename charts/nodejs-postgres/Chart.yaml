@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nodejs-postgres
+description: A Helm chart for deploying Node.js + Postgres app
+version: 0.1.0
+appVersion: "1.0"
+
